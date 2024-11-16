@@ -260,7 +260,7 @@ if decision_to_view_rules == "Y": # if player wants to display rules
     print("1. You will role two 6-sided dices, your rolled total will be added to your score")
     print("2. If your rolled total is an even number: +10 additional points to your score")
     print("3. If your rolled total is an odd number: -5 points to your score")
-    print("4. If you roll a double, roll one extra die: your rolled total is added to your score, rules 3. and 4. don't apply")
+    print("4. If you roll a double, roll one extra die: your rolled total is added to your score, rules 2. and 3. don't apply")
     print("5. Your score cannot go below 0")
     print("6. You take turns for 5 rounds, the person with the highest score at the end wins")
     print("7. If both users have the same score at the end of the 5 rounds, deathmatch occurs: keep rolling until someone gets a higher total score ")
